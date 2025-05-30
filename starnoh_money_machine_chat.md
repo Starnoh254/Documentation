@@ -1,3 +1,9 @@
+---
+title: Building a System That Prints Money – Chat with ChatGPT
+date: 2025-05-22
+description: A motivational chat about building lasting wealth through systems, consistency, and delivering value—one step at a time.
+tags: [Money, Systems, Wealth, Motivation, Software, Habits, Consistency]
+---
 
 # 🚀 Building a System That Prints Money – Chat with ChatGPT
 

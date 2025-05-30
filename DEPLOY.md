@@ -1,3 +1,10 @@
+---
+title: How to Deploy a React (Vite) App with Nginx on a Subdomain
+date: 2025-05-30
+description: Step-by-step guide to deploying a React (Vite) app on a subdomain using Nginx, including prerequisites, configuration, and SSL setup.
+tags: [React, Vite, Nginx, Deployment, Subdomain, SSL, DevOps]
+---
+
 # 🚀 How to Deploy a React (Vite) App with Nginx on a Subdomain
 
 ## 🎯 Goal:

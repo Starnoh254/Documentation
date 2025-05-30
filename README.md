@@ -1,3 +1,10 @@
+---
+title: My Developer Learning Journal
+date: 2025-05-30
+description: A personal knowledge base documenting software development learnings, configs, bugs, and deployment tips for future reference and sharing with the dev community.
+tags: [Learning, Documentation, Developer Journal, Software Development, Tips, Reference]
+---
+
 # 🧠 My Developer Learning Journal
 
 Welcome to my dev brain 🧠

@@ -1,3 +1,10 @@
+---
+title: Applying Atomic Habits to Learning DSA, Calculus, and Investing
+date: 2025-05-29
+description: Practical guide to using Atomic Habits principles for mastering Data Structures & Algorithms, Calculus, and Investing.
+tags: [Atomic Habits, Learning, DSA, Calculus, Investing, Productivity]
+---
+
 # Applying Atomic Habits to Learning DSA, Calculus, and Investing
 
 **Date:** 2025-05-29

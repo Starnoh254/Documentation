@@ -1,3 +1,10 @@
+---
+title: Babel and Babel Plugins Documentation
+date: 2025-05-30
+description: Overview of Babel, its purpose, usage in different environments, and how to use plugins and presets for JavaScript compatibility.
+tags: [Babel, JavaScript, Plugins, Presets, Transpiler, Documentation]
+---
+
 # 📝 **Babel and Babel Plugins Documentation**
 
 ## 📌 What is **Babel**?

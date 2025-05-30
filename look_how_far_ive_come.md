@@ -1,3 +1,10 @@
+---
+title: Look How Far I've Come Journal
+date: 2025-05-23
+description: Personal journal entry reflecting on solving the "Max Area of Island" problem, including solution breakdown, insights, and growth in DSA.
+tags: [Journal, DSA, Growth, Problem Solving, Max Area of Island, DFS, Coding]
+---
+
 # Look How Far I've Come Journal 🚀
 **Date:** 2025-05-23 14:44:11
 

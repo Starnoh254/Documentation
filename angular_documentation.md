@@ -1,3 +1,10 @@
+---
+title: Angular Project Documentation Guide
+date: 2025-05-30
+description: Best practices and tools for documenting your Angular codebase, including Compodoc, JSDoc comments, and folder structure tips.
+tags: [Angular, Documentation, Compodoc, JSDoc, Best Practices, VS Code]
+---
+
 # 🧾 Angular Project Documentation Guide
 
 ## 🚀 Why Document Your Angular Codebase?

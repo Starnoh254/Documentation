@@ -1,3 +1,9 @@
+---
+title: Behind-the-Scenes Software Engineering Practices
+date: 2025-05-30
+description: Key software engineering practices that improve code quality, reliability, and maintainability, including documentation, testing, CI/CD, code reviews, and more.
+tags: [Software Engineering, Best Practices, Documentation, Testing, CI/CD, Code Quality, Security]
+---
 
 # 🔧 Behind-the-Scenes Software Engineering Practices
 

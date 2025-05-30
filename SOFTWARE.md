@@ -1,3 +1,10 @@
+---
+title: What is Software Engineering?
+date: 2025-05-30
+description: A personal reflection on the difference between programming and software engineering, why SE matters, and how DSA fits into the bigger picture.
+tags: [Software Engineering, Programming, DSA, Best Practices, Reflection, Learning]
+---
+
 # What is Software Engineering? 🤔
 
 ## 🧠 My Thoughts
